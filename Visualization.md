@@ -24,5 +24,5 @@
 
 ## 5. Feature Importance (Keywords)
 
-- **Insight**: Kata kunci 'action', 'multiplayer', '3d', dan 'mobile' memiliki nilai koefisien positif tertinggi. Sebaliknya, kata kunci yang terlalu spesifik atau tidak relevan memiliki pengaruh rendah.
+- **Insight**: Kata kunci 'brain', 'puzzle', dan 'steam' memiliki nilai koefisien positif tertinggi. Sebaliknya, kata kunci yang terlalu spesifik atau tidak relevan memiliki pengaruh rendah.
 - **Kegunaan**: Panduan strategis bagi tim konten untuk melakukan optimasi SEO pada deskripsi game agar meningkatkan potensi popularitas.
